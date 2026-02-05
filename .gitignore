@@ -1,5 +1,5 @@
 node_modules/
 .env
-env.vars
 *.log
-.cache/
+/tmp/
+.ats/
