@@ -1,0 +1,13 @@
+{
+  "name": "song-creator-ats",
+  "version": "1.0.0",
+  "description": "ATS agent that processes song creation tasks via ACE-Step API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "bash test.sh"
+  },
+  "keywords": ["ats", "song-creator", "ace-step"],
+  "license": "MIT"
+}
