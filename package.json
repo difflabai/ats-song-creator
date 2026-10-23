@@ -8,6 +8,13 @@
     "start": "node index.js",
     "test": "bash test.sh"
   },
-  "keywords": ["ats", "song-creator", "ace-step"],
-  "license": "MIT"
+  "keywords": [
+    "ats",
+    "song-creator",
+    "ace-step"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "^22.23.4 || ^24.22.1 || >=26.12.1"
+  }
 }
